@@ -1,0 +1,12 @@
+{
+  "cancel": "Cancel",
+  "create": "Create",
+  "departmentCreateFormFieldErrorText": "Name must be at lest 2 characters length",
+  "departmentCreateFormFieldHintText": "Department Name",
+  "departmentUpdateBtn": "Update",
+  "description": "Description",
+  "emailInvalid": "Invalid email",
+  "or": "or",
+  "signInWithGoogle": "Sign In With Google",
+  "somethingWentWrong": "Something went wrong"
+}
